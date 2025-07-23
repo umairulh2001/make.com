@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <strong>ðŸŽ¯ Your ultimate collection of Make.com tutorials, blueprints, and automation workflows</strong>
+  <strong>Your ultimate collection of Make.com tutorials, blueprints, and automation workflows</strong>
 </p>
 
 <p align="center">
@@ -16,39 +16,39 @@
 
 ---
 
-## ðŸ“‹ Table of Contents
+## 📋 Table of Contents
 
-- [ðŸŒŸ Overview](#-overview)
-- [âœ¨ Features](#-features)
-- [ðŸš€ Quick Start](#-quick-start)
-- [ðŸ”§ Installation & Setup](#-installation--setup)
-- [ðŸ“– Useful Links](#-useful-links)
-- [ðŸ†˜ Support](#-support)
-- [ðŸ“„ License](#-license)
+- [📖 Overview](#-overview)
+- [✨ Features](#-features)
+- [🚀 Quick Start](#-quick-start)
+- [🔧 Installation & Setup](#-installation--setup)
+- [🔗 Useful Links](#-useful-links)
+- [💬 Support](#-support)
+- [📄 License](#-license)
 
-## ðŸŒŸ Overview
+## 📖 Overview
 
-Welcome to the **Make.com Automation Hub** â€“ your comprehensive resource for mastering workflow automation! This repository is designed to help both beginners and advanced users harness the full power of Make.com's visual automation platform.
+Welcome to the **Make.com Automation Hub** — your comprehensive resource for mastering workflow automation! This repository is designed to help both beginners and advanced users harness the full power of Make.com's visual automation platform.
 
 ### What is Make.com?
 
 Make.com (formerly Integromat) is a powerful visual platform that enables you to design, build, and automate workflows by connecting different apps and services without writing code. Think of it as the bridge between all your favorite tools, creating seamless data flows and automated processes.
 
-## âœ¨ Features
+## ✨ Features
 
-### ðŸŽ¯ **Comprehensive Tutorials**
+### **Comprehensive Tutorials**
 - Beginner-friendly guides with screenshots
 - Advanced automation techniques
 - Integration-specific walkthroughs
 - Troubleshooting and optimization tips
 
-### ðŸŽ¨ **Ready-to-Use Blueprints**
+### **Ready-to-Use Blueprints**
 - Pre-configured automation templates
 - JSON files for easy import
 - Detailed setup instructions
 - Use case descriptions and benefits
 
-### ðŸ“Š **Popular Integration Categories**
+### **Popular Integration Categories**
 - **CRM & Sales**: Salesforce, HubSpot, Pipedrive
 - **E-commerce**: Shopify, WooCommerce, Stripe
 - **Marketing**: Mailchimp, ActiveCampaign, Facebook Ads
@@ -56,7 +56,7 @@ Make.com (formerly Integromat) is a powerful visual platform that enables you to
 - **Social Media**: Twitter, LinkedIn, Instagram
 - **Development**: GitHub, Slack, Jira
 
-## ðŸš€ Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 - Active Make.com account ([Sign up here](https://make.com))
@@ -64,11 +64,11 @@ Make.com (formerly Integromat) is a powerful visual platform that enables you to
 
 ### Getting Started in 3 Steps
 
-1. **ðŸ” Browse** the repository to find tutorials or blueprints that match your needs
-2. **ðŸ“¥ Download** the relevant files or copy the blueprint JSON
-3. **ðŸš€ Import** into your Make.com account and customize as needed
+1. **🔍 Browse** the repository to find tutorials or blueprints that match your needs
+2. **📥 Download** the relevant files or copy the blueprint JSON
+3. **🚀 Import** into your Make.com account and customize as needed
 
-## ðŸ”§ Installation & Setup
+## 🔧 Installation & Setup
 
 ### Importing Blueprints
 
@@ -90,31 +90,31 @@ Each blueprint requires specific app connections. Follow these steps:
 4. **Test** the connection to ensure it's working
 5. **Apply** the connection to your imported scenario
 
-## Useful Links
+## 🔗 Useful Links
 - [Make.com Official Documentation](https://make.com/en/help)
 - [Make.com Academy](https://academy.make.com)
 - [Community Forum](https://community.make.com)
 - [API Documentation](https://make.com/en/api-documentation)
 
-## ðŸ†˜ Support
+## 💬 Support
 
-### â“ **FAQ**
+### **FAQ**
 **Q: How do I import a blueprint?**
 A: Download the JSON file and use Make.com's import feature in the scenario editor.
 
 **Q: Are these blueprints free to use?**
-A: Yes! All content in this repository is open source under [MIT license]((#-license).
+A: Yes! All content in this repository is open source under [MIT license](#-license).
 
 **Q: Can I modify the blueprints?**
 A: Absolutely! Feel free to customize any automation to fit your specific needs.
 
-## ðŸ“„ License
+## 📄 License
 
-This project is licensed under the **MIT License** .
+This project is licensed under the **MIT License**.
 
 ---
 
 <div align="center">
-  <p><strong>â­ Star this repository if it helped you automate your workflows!</strong></p>
-  <p><em>Happy Automating! ðŸš€</em></p>
+  <p><strong>⭐ Star this repository if it helped you automate your workflows!</strong></p>
+  <p><em>Happy Automating! 🚀</em></p>
 </div>
