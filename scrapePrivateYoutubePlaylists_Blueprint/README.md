@@ -13,7 +13,6 @@
 ## 📋 Table of Contents
 - [🌟 Overview](#-overview)
 - [🔧 Setup](#-setup)
-- [🆘 Support](#-support)
 - [📄 License](#-license)
 
 ## 🌟 Overview
@@ -38,9 +37,6 @@ Each blueprint requires specific app connections.:
 - [Make.com Academy](https://academy.make.com)
 - [Community Forum](https://community.make.com)
 - [API Documentation](https://make.com/en/api-documentation)
-
-## 🆘 Support
-*Add your support information here*
 
 ## 📄 License
 This project is licensed under the **MIT License**.
